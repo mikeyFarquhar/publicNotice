@@ -1,0 +1,4 @@
+PublicNotice
+------------
+
+2017.02.22: mfarq: Initial commit of details file.
